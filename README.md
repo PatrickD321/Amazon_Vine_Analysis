@@ -15,9 +15,9 @@ This is an efficent way analysing big data using Hadoop which is an ecosystem fo
   Non-Vines reviews are 140200.
 
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-The five (5) star rating for vine reviews are eight (8) in total.
-Non-Vine reviews produced 73039 five (5) star ratings.
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?   
+  The five (5) star rating for vine reviews are eight (8) in total.  
+  Non-Vine reviews produced 73039 five (5) star ratings.
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
