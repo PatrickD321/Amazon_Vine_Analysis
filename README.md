@@ -10,8 +10,8 @@ This is an efficent way analysing big data using Hadoop which is an ecosystem fo
 
 ## Results
 
-- How many Vine reviews and non-Vine reviews were there? 
-  The Vine reviews are 43. 
+- How many Vine reviews and non-Vine reviews were there?   
+  The Vine reviews are 43.   
   Non-Vines reviews are 140200.
 
 
