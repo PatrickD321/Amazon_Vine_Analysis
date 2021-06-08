@@ -20,8 +20,7 @@ This is an efficent way analysing big data using Hadoop which is an ecosystem fo
   Non-Vine reviews produced 73039 five (5) star ratings.
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
-The percentage Vine reviews were 5 stars is 0.002%.  
+  The percentage Vine reviews were 5 stars is 0.002%.  
   The percentage of Non-Vine reviews were 5 5 stars is 2.193%.  
 
 ## Summary 
