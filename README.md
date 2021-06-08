@@ -21,5 +21,15 @@ This is an efficent way analysing big data using Hadoop which is an ecosystem fo
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
+The percentage Vine reviews were 5 stars is 0.002%.  
+  The percentage of Non-Vine reviews were 5 5 stars is 2.193%.  
+
+## Summary 
+
+  Vine Reviews is an Amazon program where Amazons shoppers are invited to post oppinions about new and pre-release products to help other customers to make informed decision for buying the said produce. This similar to giving your own unbaised perception for any given item. The program is expected to be without any favor towards a given item and this is reflected in the percentage values that were detemined from Vine_table. "Y" under the vine column from the table signified user that were paid, and "N" shows those who were not. The percentage is approximaly zero (0 ~ 0.002%) for paid reviews 5 star rating, while non-paying reviews is 2.193%, this indicates the positivity of the promgram since the paid reviews are almost nonexistence.
+  An addiitional analysis that could provide to support that the nature of the program is unbaised, is to compare the amount of 5 star rating to all the other ratings combined. This should also be check against the paid and non-paid reviews since honest opinions are always needed to keep the integrity of the program.
+
+
+
 
 
